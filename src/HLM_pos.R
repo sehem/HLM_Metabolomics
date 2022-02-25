@@ -26,7 +26,7 @@ library("gplots")
 library("MASS")
 
 ## Load metaboLib.R
-source("~/metaboLib_devel.R")
+source("metaboLib.R")
 
 
 ##

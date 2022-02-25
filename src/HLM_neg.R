@@ -26,7 +26,7 @@ library("gplots")
 library("MASS")
 
 ## Load metaboLib.R
-source("/run/media/daten/Projekte/Promotion/Forschung/R_Development/Metabolomik/metaboLib/metaboLib.R")
+source("metaboLib.R")
 
 
 ##
